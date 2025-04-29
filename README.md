@@ -11,12 +11,10 @@
 
 - 👯 I’m open to collaborating on **Web Development, MERN Stack, and AI-related Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](#) *(Update with your portfolio link if you have one)*
-
-- 🏆 Recent Achievements:
+   🏆 Recent Achievements:
   - Secured **2nd Position** in **Code Sprint 2024**
-  - Selected for **Pragati Cohort**
-  - Completed internships at **Octanet Pvt Ltd** and **Edunet Foundation with EY GDS**
+  - Selected for **Pragati Cohort** in **infosys**
+  - Completed internships at  **Edunet Foundation with EY GDS**
 
 - 📫 How to reach me:
   - Email: [bansalanshika847@gmail.com](mailto:bansalanshika847@gmail.com)
